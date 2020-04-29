@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyboard-Tester", "Keyboard-Tester\Keyboard-Tester.csproj", "{1C42EA36-2996-4318-BAC5-A47FE582B73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C42EA36-2996-4318-BAC5-A47FE582B73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C42EA36-2996-4318-BAC5-A47FE582B73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C42EA36-2996-4318-BAC5-A47FE582B73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C42EA36-2996-4318-BAC5-A47FE582B73B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3A80DC-B7B8-4257-95D0-A0FB34F558E5}
+	EndGlobalSection
+EndGlobal
